@@ -1,2 +1,2 @@
-# GappyZero.github.io
+# gappyzero.github.io
 Cool person
