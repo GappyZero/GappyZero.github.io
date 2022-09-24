@@ -99,7 +99,21 @@ hr {
 }
 .post_header {
     font-family: 'TF2 Build';
+    font-size: 125%;
 }
 .post {
     margin:50px;
+}
+.post_date {
+    font-size: 75%;
+}
+.watermark a:hover {
+    transform: scale(1.5);
+}
+img {
+    -webkit-user-drag: none;
+}
+a {
+    user-select: none;
+    -webkit-user-drag: none;
 }
