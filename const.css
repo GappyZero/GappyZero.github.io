@@ -52,6 +52,7 @@ body {
     font-size: 4em;
     text-decoration: none;
     align-self: center;
+    height: max-content;
 }
 .nav_links a:hover {
     color: #EB966E;
